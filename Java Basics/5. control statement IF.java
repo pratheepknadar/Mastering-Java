@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         boolean user = true;
         if (user == true) {
-            System.out.println("It's Working");
+            System.out.println("It's Working !!");
         }
 
     }
